@@ -4,23 +4,13 @@ This repository includes my complete manual QA learning materials, such as testi
 # RiVirtual.in – Manual Testing Project Documentation
 
 ## Project Overview
-RiVirtual.in is an online classified marketplace where users can post ads, search for services/products, and connect with sellers. This repository contains complete manual testing documentation including test planning, scenarios, execution, defects, and reports.
-
-## Table of Contents
-1. Project Overview
-2. Purpose of Testing
-3. My Roles & Responsibilities
-4. Application Modules
-5. Types of Testing Performed
-6. Test Scenarios & Test Cases
-7. Defect Reporting
-8. Tools Used
-9. Test Execution Summary
-10. Sample Bugs
-11. Conclusion
-
-## Purpose of Testing
-To validate the functionalities, usability, performance, and cross-browser compatibility of the RiVirtual platform.
+RiVirtual is a global PropTech / FinTech real-estate technology platform that aims to simplify and digitize property discovery, listing, management, and real-estate services for investors, buyers, sellers, agents, developers, and real-estate professionals. 
+What RiVirtual Does — Key Services & Features
+Property Listings & Marketplace: RiVirtual lists residential and commercial properties (for sale or rent), helping buyers/investors browse through a catalog of available real-estate options across many locations. 
+Real-Estate Intelligence & Market Insights: Through data & analytics, RiVirtual provides real-estate intelligence — helping users assess properties with data on availability, pricing, affordability, and locality trends. 
+CRM & Professional Tools for Agents / Developers: It offers tools for real-estate agents, brokers, developers — like CRM for lead and contact management, property management, and sales/marketing support.
+Valuation & Advisory Services: For properties, RiVirtual supports valuation services — helping estimate fair market value by combining public data with local expertise, market trends, neighborhood insights, and property condition.
+Reputation Management for Real-Estate Professionals: Recently, RiVirtual launched a reputation-management platform for agents, professionals, and builders — enabling management of reviews, feedback, and online presence to build trust in the industry
 
 ## My Roles & Responsibilities
 - Requirement analysis and understanding user flows.
@@ -53,9 +43,6 @@ To validate the functionalities, usability, performance, and cross-browser compa
 - Negative Testing
 - Basic API Testing
 
-## Test Scenarios & Test Cases
-(To be added in `/testcases` folder)
-
 ## Defect Reporting
 Bugs logged with:
 - Steps to reproduce
@@ -65,25 +52,5 @@ Bugs logged with:
 
 ## Tools Used
 - Jira/Excel
-- Postman
 - Chrome DevTools
 - GitHub
-- BrowserStack (optional)
-
-## Test Execution Summary
-- Total Test Cases: 120
-- Passed: 95
-- Failed: 25
-- Regression Cycles: 3
-- Blockers: 2
-
-## Sample Bugs
-1. Search results not updating per category.
-2. OTP field accepting alphabets.
-3. Price filter not resetting.
-4. UI breaks on smaller screens.
-5. Image upload failing for large files.
-6. Bookmark icon not updating.
-
-## Conclusion
-End-to-end testing completed for RiVirtual marketplace with full documentation of test design, execution, defects, and recommendations.
